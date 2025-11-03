@@ -1,12 +1,8 @@
 #!/usr/bin/env python3
-"""
-Publication-ready THz skin imaging simulation for IRMMW-THz 2026 / IEEE TBME
 Generates 3 figures with enhanced gradients and accurate physics:
-- Figure 4: FDTD snapshot with hydration gradient
-- Figure 5: Reflected pulse with correct echo timing
-- Figure 6: TV-regularized inverse reconstruction with strong gradients
-
-FULLY DEBUGGED VERSION - All errors resolved
+- Figure 1: FDTD snapshot with hydration gradient
+- Figure 2: Reflected pulse with correct echo timing
+- Figure 3: TV-regularized inverse reconstruction with strong gradients
 """
 
 import numpy as np
