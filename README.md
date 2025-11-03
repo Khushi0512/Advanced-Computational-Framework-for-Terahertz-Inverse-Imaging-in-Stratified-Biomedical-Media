@@ -4,8 +4,8 @@ Novel 2D physics-informed Inverse Image reconstruction of skin permittivity usin
 **First 2D Inverse THz Imaging of skin hydration Gradient for the ε_r range of 6-9**
 
 # Programs Descriptions: 
-**Below described files are to be obligatorily simulated in MATLAB environment**
-**All the programs simulated in MATLAB can be extracted in a graphical as well as xlsx format and can be later used for final Simulation in Python Environment.**
+**Below described files are to be obligatorily simulated in MATLAB environment.**
+**The output fot all the programs simulated in MATLAB can be extracted in a graphical as well as xlsx format and can be later used for final Simulation in Python Environment.**
 
 File **"THz_Pulse_Sourse.m"** Defines the mathematical aspect for the required input Pulse. The pulse's behavior and path can be witnessed and traced via the output graph generated on running the file.
 
