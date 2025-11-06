@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 """
-Script 5 — Convergence Comparison (No Reg vs. Tikhonov vs. TV)
----------------------------------------------------------------
-
 Goal:
 - Compare inversion convergence for three regularizations on a 1D depth profile ε_r(z).
 - Physics-consistent target: hydration increases with depth ⇒ ε_r increases (6.3 → 8.7).
