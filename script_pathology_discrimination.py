@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Script 2 — Pathology Discrimination (Publication-ready)
+Script — Pathology Discrimination
 
 Generates three panels:
 (a) Healthy (baseline)
