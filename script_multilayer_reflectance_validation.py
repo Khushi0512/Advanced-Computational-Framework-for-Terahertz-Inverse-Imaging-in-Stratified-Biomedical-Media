@@ -7,9 +7,6 @@ Multilayer Reflectance Validation (FDTD vs TMM)
 - Reference ("no-sample") and sample runs -> incident & reflected separation
 - Frequency-domain reflectance: R_FDTD(ν) = |Ê_ref(ν) / Ê_inc(ν)|^2
 - Vectorized TMM with complex permittivity (σ loss)
-- Publication-ready plot & RMS error
-
-Author: cleaned & validated
 """
 
 import numpy as np
