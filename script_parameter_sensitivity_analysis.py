@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Script 4 — Parameter Sensitivity Analysis (λ vs SNR)
+Script — Parameter Sensitivity Analysis (λ vs SNR)
 ----------------------------------------------------
 
 Generates a 2D heatmap of RMS(λ, SNR) showing the L-curve valley.
@@ -11,9 +11,6 @@ Physics model built in:
 - Large λ  → oversmoothing / bias dominates → high RMS
 - Optimal λ near 10^-4 at SNR=40 dB
 - Optimal λ shifts left (smaller λ) when SNR increases
-
-Output:
-- One IEEE-quality heatmap plot
 """
 
 import numpy as np
